@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.25.0/DPlayer.min.css">
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.25.0/DPlayer.min.js"></script>
+<div id="dplayer"></div>
+<script>
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    screenshot: true,
+    video: {
+        url: 'demo.mp4',
+        pic: 'demo.jpg',
+        thumbnails: 'thumbnails.jpg'
+    },
+    subtitle: {
+        url: 'webvtt.vtt'
+    },
+    danmaku: {
+        id: 'demo',
+        api: 'https://api.prprpr.me/dplayer/'
+    }
+});
+</script>

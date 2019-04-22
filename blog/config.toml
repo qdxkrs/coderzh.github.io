@@ -1,4 +1,28 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "桃花心木"
+avatar = "https://avatar.csdn.net/C/D/F/3_u013233097.jpg"
+
+# 设置默认使用的主题
+theme = "m10c"
+
+[params]
+    author = "John Doe"
+    description = "welcome to my blog."
+    avatar = "https://avatar.csdn.net/C/D/F/3_u013233097.jpg"
+
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/gohugoio"
+    [[params.social]]
+        name = "twitter"
+        url = "https://twitter.com/gohugoio"
+
+    # Green theme
+    [params.style]
+        darkestColor = "#315659"
+        darkColor = "#253031"
+        primaryColor = "#dad865"
+        lightColor = "#96a879"
+        lightestColor = "#ffffff"
 
