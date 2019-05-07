@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 桃花心木</title>
-    <link>http://example.org/categories/</link>
+    <link>http://qdxkrs.github.io/categories/</link>
     <description>Recent content in Categories on 桃花心木</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Nov 2018 15:57:26 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://qdxkrs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>互联网</title>
-      <link>http://example.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/</link>
+      <link>http://qdxkrs.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/</link>
       <pubDate>Fri, 23 Nov 2018 15:57:26 +0000</pubDate>
       
-      <guid>http://example.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/</guid>
+      <guid>http://qdxkrs.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/</guid>
       <description></description>
     </item>
     
     <item>
       <title>哲学</title>
-      <link>http://example.org/categories/%E5%93%B2%E5%AD%A6/</link>
+      <link>http://qdxkrs.github.io/categories/%E5%93%B2%E5%AD%A6/</link>
       <pubDate>Tue, 20 Nov 2018 19:30:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/%E5%93%B2%E5%AD%A6/</guid>
+      <guid>http://qdxkrs.github.io/categories/%E5%93%B2%E5%AD%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>经济</title>
-      <link>http://example.org/categories/%E7%BB%8F%E6%B5%8E/</link>
+      <link>http://qdxkrs.github.io/categories/%E7%BB%8F%E6%B5%8E/</link>
       <pubDate>Fri, 16 Nov 2018 11:34:33 +0000</pubDate>
       
-      <guid>http://example.org/categories/%E7%BB%8F%E6%B5%8E/</guid>
+      <guid>http://qdxkrs.github.io/categories/%E7%BB%8F%E6%B5%8E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>产品经理</title>
-      <link>http://example.org/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
+      <link>http://qdxkrs.github.io/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
       <pubDate>Tue, 16 Oct 2018 13:50:42 +0000</pubDate>
       
-      <guid>http://example.org/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</guid>
+      <guid>http://qdxkrs.github.io/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</guid>
       <description></description>
     </item>
     
