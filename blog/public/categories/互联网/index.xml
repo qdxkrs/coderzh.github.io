@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>互联网 on 桃花心木</title>
-    <link>http://qdxkrs.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/</link>
+    <link>http://example.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/</link>
     <description>Recent content in 互联网 on 桃花心木</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Nov 2018 15:57:26 +0000</lastBuildDate>
     
-	<atom:link href="http://qdxkrs.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>超文本传输协议HTTP</title>
-      <link>http://qdxkrs.github.io/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEhttp/</link>
+      <link>http://example.org/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEhttp/</link>
       <pubDate>Fri, 23 Nov 2018 15:57:26 +0000</pubDate>
       
-      <guid>http://qdxkrs.github.io/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEhttp/</guid>
+      <guid>http://example.org/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEhttp/</guid>
       <description>&lt;h2 id=&#34;协议概述&#34;&gt;协议概述&lt;/h2&gt;
 
 &lt;p&gt;超文本传输协议（HyperText Transfer Protocol）缩写为HTTP，是一种用于分布式、协作式和超媒体信息系统的应用层协议。HTTP是万维网的数据通信的基础。通过HTTP或者HTTPS协议请求的资源由统一资源标识符（Uniform Resource Identifiers，URI）来标识。&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>常用网络协议简介</title>
-      <link>http://qdxkrs.github.io/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B/</link>
+      <link>http://example.org/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B/</link>
       <pubDate>Fri, 23 Nov 2018 11:51:47 +0000</pubDate>
       
-      <guid>http://qdxkrs.github.io/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B/</guid>
+      <guid>http://example.org/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B/</guid>
       <description>&lt;h2 id=&#34;网络传输协议&#34;&gt;网络传输协议&lt;/h2&gt;
 
 &lt;p&gt;网络传输协议（Internet communication protocol）是计算机通信或网上设备通信的共同语言。通信协议定义了通信中的语法学, 语义学和同步规则以及可能存在的错误检测与纠正。通信协议在硬件，软件或两者之间皆可实现。
@@ -36,10 +36,10 @@
     
     <item>
       <title>互联网Internet简介</title>
-      <link>http://qdxkrs.github.io/%E4%BA%92%E8%81%94%E7%BD%91internet%E7%AE%80%E4%BB%8B/</link>
+      <link>http://example.org/%E4%BA%92%E8%81%94%E7%BD%91internet%E7%AE%80%E4%BB%8B/</link>
       <pubDate>Fri, 23 Nov 2018 10:24:33 +0000</pubDate>
       
-      <guid>http://qdxkrs.github.io/%E4%BA%92%E8%81%94%E7%BD%91internet%E7%AE%80%E4%BB%8B/</guid>
+      <guid>http://example.org/%E4%BA%92%E8%81%94%E7%BD%91internet%E7%AE%80%E4%BB%8B/</guid>
       <description>&lt;h2 id=&#34;什么是互联网&#34;&gt;什么是互联网&lt;/h2&gt;
 
 &lt;p&gt;互联网是连接网络的网络，能彼此通信的设备彼此互联形成网络，这些网络以一组标准的协议互相联接在一起，形成覆盖全世界的的巨大国际互联网络，是目前世界上最大的计算机网络。万维网（WWW）是基于超文本相互链接而成的全球性系统，是互联网所能提供的服务之一。互联网带有范围广泛的信息资源和服务，例如万维网的应用，支持邮箱的基础设施，点对点网络，文件共享，以及IP电话服务。&lt;/p&gt;</description>

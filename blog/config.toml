@@ -23,6 +23,6 @@ theme = "m10c"
         darkestColor = "#315659"
         darkColor = "#253031"
         primaryColor = "#dad865"
-        lightColor = "#96a879"
+        lightColor = "#FFC125"
         lightestColor = "#ffffff"
 

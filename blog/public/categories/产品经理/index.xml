@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>产品经理 on 桃花心木</title>
-    <link>http://qdxkrs.github.io/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
+    <link>http://example.org/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
     <description>Recent content in 产品经理 on 桃花心木</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Oct 2018 13:50:42 +0000</lastBuildDate>
     
-	<atom:link href="http://qdxkrs.github.io/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>数字媒体测试</title>
-      <link>http://qdxkrs.github.io/%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E6%B5%8B%E8%AF%95/</link>
+      <link>http://example.org/%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Tue, 16 Oct 2018 13:50:42 +0000</pubDate>
       
-      <guid>http://qdxkrs.github.io/%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E6%B5%8B%E8%AF%95/</guid>
+      <guid>http://example.org/%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>何为用户画像</title>
-      <link>http://qdxkrs.github.io/%E4%BD%95%E4%B8%BA%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/</link>
+      <link>http://example.org/%E4%BD%95%E4%B8%BA%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/</link>
       <pubDate>Fri, 12 Oct 2018 11:12:20 +0000</pubDate>
       
-      <guid>http://qdxkrs.github.io/%E4%BD%95%E4%B8%BA%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/</guid>
+      <guid>http://example.org/%E4%BD%95%E4%B8%BA%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/</guid>
       <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
 
 &lt;p&gt;从早期的调查问卷，到现在进入数据爆炸时代，大家越来越多的关注用数据做运营，也就是精细化运营。精细化运营的第一步就是确定你的目标用户是谁，或者说是可能是谁。信息时代真正地了解用户，才能得到用户。&lt;/p&gt;</description>
