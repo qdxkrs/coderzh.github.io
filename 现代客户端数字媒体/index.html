@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+  <head>
+    <title>现代客户端数字媒体 // 桃花心木</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.55.5" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="http://qdxkrs.github.io/css/main.min.e2084577aae4e31b0bdbbfd93c8cc7f55304fb1f897ecd42cb231236d7ce47a2.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="现代客户端数字媒体"/>
+<meta name="twitter:description" content="客户端泛指大前端，主要指浏览器，移动端App和现代桌面端软件。 为了适应现代客户端对大量图像和各种可视化的需求，业界需要优秀的开源数字媒体格式，减少授权成本， 在尽量无损的前提下使得数字媒体体积最小化，同时兼顾编码、解码速度，减小网络传输带宽占用和处理器的压力。 该格式必须有高效的软解，最好能够被硬解。
+图像领域 现代客户端中较普及的矢量图格式为 svg (Scalable Vector Graphics) 可缩放矢量图形,基于可扩展标记语言XML开发，由W3C制定， 是一个开放标准。数据未压缩，故较同类格式体积稍大，常用于图标和Logo等，普及度良好。
+位图格式第一个要说的就是TIFF(Tagged Image File Format)，当前标准为TIFF 6.0，是图形图像处理中常用的格式。
+jpeg(Joint Photographic Experts Group)是由国际标准组织（ISO）和国际电话电报咨询委员会（CCITT）为静态图像所创建的第一个国际数字图像压缩标准，也是至今一直在使用的、应用最广的有损图像压缩标准。由于JPEG是有损压缩，会产生迭代有损，在重复压缩和解码的过程中会不断丢失信息使图像质量下降。
+无损压缩最普及的格式当然是png (Portable Network Graphics )，现行版本是ISO/IEC 15948:2003，并在2003年11月10日作为W3C建议发布。PNG8和PNG24后面的数字则是代表这种PNG格式最多可以索引和存储的颜色值。8代表2的8次方也就是256色，而24则代表2的24次方大概有1677万色以上。Mozilla 社区推出带有动画支持的APNG（Animated Portable Network Graphics）用来取代gif，获得了苹果、谷歌、微软的支持。
+目前，传统的图片格式已经没有太多可以优化的空间，而 Google 推出 WebP 格式在图片压缩方面有了新的突破。目前也有越来越多的互联网企业开始使用 WebP，YouTube 的视频略缩图采用 WebP 后，网页加载速度提升了 10%；Google Chrome 应用商店采用 WebP 后，每天可以节省几 TB 的带宽，页面加载时间减少了30% 左右。
+音频领域 AAC（Advanced Audio Coding）高级音频编码，是一种专为声音数据设计的文件压缩格式。与MP3不同，它采用了全新的算法进行编码，相对于mp3，AAC格式的音质更佳，文件更小，是一种比mp3更好的有损压缩，已经得到了广泛的支持，除了在线音乐外也常用于视频中数字电视和网络视频。
+Opus是一种开源的有损压缩音频格式，由IETF提出，Opus压缩率优于AAC，使用上没有任何专利或限制。然而实际应用很少。
+随着对品质的追求，Lossless Encode无损压缩编码的应用愈加广泛，FLAC (Free Lossless Audio Codec)编码压缩后不会丢失任何信息,是目前最流行的无损音频编码，获得了广泛的支持,带宽消耗较多。
+视频领域 视频格式和视频编码解码的技术不直接关联，视频格式相当于容器，常见的视频格式包括MP4、MKV、WebM等， 而编解码方案则是压缩方式，包括视频编码和音频编码，通过封装格式将字幕等打包起来。
+开放媒体联盟(AOM，Alliance for Open Media)推出 AV1 是一种基于区块编码的频率变换格式，现在AOM的成员已经涵盖了Amazon、Cisco、Google、Intel、Microsoft、Mozilla、Netflix、AMD、ARM和 NVIDIA，它成立的目的是为互联网和其他市场创建一个开源的视频编解码器，AV1相对现在的主流编码格式VP9和HEVC/H.265有20%以上的提升，而且免除了专利费和反垄断的麻烦。"/>
+
+    <meta property="og:title" content="现代客户端数字媒体" />
+<meta property="og:description" content="客户端泛指大前端，主要指浏览器，移动端App和现代桌面端软件。 为了适应现代客户端对大量图像和各种可视化的需求，业界需要优秀的开源数字媒体格式，减少授权成本， 在尽量无损的前提下使得数字媒体体积最小化，同时兼顾编码、解码速度，减小网络传输带宽占用和处理器的压力。 该格式必须有高效的软解，最好能够被硬解。
+图像领域 现代客户端中较普及的矢量图格式为 svg (Scalable Vector Graphics) 可缩放矢量图形,基于可扩展标记语言XML开发，由W3C制定， 是一个开放标准。数据未压缩，故较同类格式体积稍大，常用于图标和Logo等，普及度良好。
+位图格式第一个要说的就是TIFF(Tagged Image File Format)，当前标准为TIFF 6.0，是图形图像处理中常用的格式。
+jpeg(Joint Photographic Experts Group)是由国际标准组织（ISO）和国际电话电报咨询委员会（CCITT）为静态图像所创建的第一个国际数字图像压缩标准，也是至今一直在使用的、应用最广的有损图像压缩标准。由于JPEG是有损压缩，会产生迭代有损，在重复压缩和解码的过程中会不断丢失信息使图像质量下降。
+无损压缩最普及的格式当然是png (Portable Network Graphics )，现行版本是ISO/IEC 15948:2003，并在2003年11月10日作为W3C建议发布。PNG8和PNG24后面的数字则是代表这种PNG格式最多可以索引和存储的颜色值。8代表2的8次方也就是256色，而24则代表2的24次方大概有1677万色以上。Mozilla 社区推出带有动画支持的APNG（Animated Portable Network Graphics）用来取代gif，获得了苹果、谷歌、微软的支持。
+目前，传统的图片格式已经没有太多可以优化的空间，而 Google 推出 WebP 格式在图片压缩方面有了新的突破。目前也有越来越多的互联网企业开始使用 WebP，YouTube 的视频略缩图采用 WebP 后，网页加载速度提升了 10%；Google Chrome 应用商店采用 WebP 后，每天可以节省几 TB 的带宽，页面加载时间减少了30% 左右。
+音频领域 AAC（Advanced Audio Coding）高级音频编码，是一种专为声音数据设计的文件压缩格式。与MP3不同，它采用了全新的算法进行编码，相对于mp3，AAC格式的音质更佳，文件更小，是一种比mp3更好的有损压缩，已经得到了广泛的支持，除了在线音乐外也常用于视频中数字电视和网络视频。
+Opus是一种开源的有损压缩音频格式，由IETF提出，Opus压缩率优于AAC，使用上没有任何专利或限制。然而实际应用很少。
+随着对品质的追求，Lossless Encode无损压缩编码的应用愈加广泛，FLAC (Free Lossless Audio Codec)编码压缩后不会丢失任何信息,是目前最流行的无损音频编码，获得了广泛的支持,带宽消耗较多。
+视频领域 视频格式和视频编码解码的技术不直接关联，视频格式相当于容器，常见的视频格式包括MP4、MKV、WebM等， 而编解码方案则是压缩方式，包括视频编码和音频编码，通过封装格式将字幕等打包起来。
+开放媒体联盟(AOM，Alliance for Open Media)推出 AV1 是一种基于区块编码的频率变换格式，现在AOM的成员已经涵盖了Amazon、Cisco、Google、Intel、Microsoft、Mozilla、Netflix、AMD、ARM和 NVIDIA，它成立的目的是为互联网和其他市场创建一个开源的视频编解码器，AV1相对现在的主流编码格式VP9和HEVC/H.265有20%以上的提升，而且免除了专利费和反垄断的麻烦。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://qdxkrs.github.io/%E7%8E%B0%E4%BB%A3%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93/" />
+<meta property="article:published_time" content="2019-05-08T10:14:20&#43;08:00"/>
+<meta property="article:modified_time" content="2019-05-08T10:14:20&#43;08:00"/>
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="/"><img class="app-header-avatar" src="http://qdxkrs.github.io//avatar.jpg" /></a>
+      <h1>桃花心木</h1>
+      <p>welcome to my blog.</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/gohugoio"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/gohugoio"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">现代客户端数字媒体</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          May 8, 2019
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          1 min read
+        </div></div>
+    </header>
+    <div class="post-content">
+      
+
+<p>客户端泛指大前端，主要指浏览器，移动端App和现代桌面端软件。
+为了适应现代客户端对大量图像和各种可视化的需求，业界需要优秀的开源数字媒体格式，减少授权成本，
+在尽量无损的前提下使得数字媒体体积最小化，同时兼顾编码、解码速度，减小网络传输带宽占用和处理器的压力。
+该格式必须有高效的软解，最好能够被硬解。</p>
+
+<h2 id="图像领域">图像领域</h2>
+
+<p>现代客户端中较普及的矢量图格式为 svg (Scalable Vector Graphics) 可缩放矢量图形,基于可扩展标记语言XML开发，由W3C制定，
+是一个开放标准。数据未压缩，故较同类格式体积稍大，常用于图标和Logo等，普及度良好。</p>
+
+<p>位图格式第一个要说的就是TIFF(Tagged Image File Format)，当前标准为TIFF 6.0，是图形图像处理中常用的格式。</p>
+
+<p>jpeg(Joint Photographic Experts Group)是由国际标准组织（ISO）和国际电话电报咨询委员会（CCITT）为静态图像所创建的第一个国际数字图像压缩标准，也是至今一直在使用的、应用最广的有损图像压缩标准。由于JPEG是有损压缩，会产生迭代有损，在重复压缩和解码的过程中会不断丢失信息使图像质量下降。</p>
+
+<p>无损压缩最普及的格式当然是png (Portable Network Graphics )，现行版本是ISO/IEC 15948:2003，并在2003年11月10日作为W3C建议发布。PNG8和PNG24后面的数字则是代表这种PNG格式最多可以索引和存储的颜色值。8代表2的8次方也就是256色，而24则代表2的24次方大概有1677万色以上。Mozilla 社区推出带有动画支持的<strong>APNG</strong>（Animated Portable Network Graphics）用来取代gif，获得了苹果、谷歌、微软的支持。</p>
+
+<p>目前，传统的图片格式已经没有太多可以优化的空间，而 Google 推出 <strong>WebP</strong> 格式在图片压缩方面有了新的突破。目前也有越来越多的互联网企业开始使用 WebP，YouTube 的视频略缩图采用 WebP 后，网页加载速度提升了 10%；Google Chrome 应用商店采用 WebP 后，每天可以节省几 TB 的带宽，页面加载时间减少了30% 左右。</p>
+
+<h2 id="音频领域">音频领域</h2>
+
+<p><strong>AAC</strong>（Advanced Audio Coding）高级音频编码，是一种专为声音数据设计的文件压缩格式。与MP3不同，它采用了全新的算法进行编码，相对于mp3，AAC格式的音质更佳，文件更小，是一种比mp3更好的有损压缩，已经得到了广泛的支持，除了在线音乐外也常用于视频中数字电视和网络视频。</p>
+
+<p><strong>Opus</strong>是一种开源的有损压缩音频格式，由IETF提出，Opus压缩率优于AAC，使用上没有任何专利或限制。然而实际应用很少。</p>
+
+<p>随着对品质的追求，Lossless Encode无损压缩编码的应用愈加广泛，<strong>FLAC</strong> (Free Lossless Audio Codec)编码压缩后不会丢失任何信息,是目前最流行的无损音频编码，获得了广泛的支持,带宽消耗较多。</p>
+
+<h2 id="视频领域">视频领域</h2>
+
+<p>视频格式和视频编码解码的技术不直接关联，视频格式相当于容器，常见的视频格式包括MP4、MKV、WebM等，
+而编解码方案则是压缩方式，包括视频编码和音频编码，通过封装格式将字幕等打包起来。</p>
+
+<p>开放媒体联盟(AOM，Alliance for Open Media)推出 <strong>AV1</strong> 是一种基于区块编码的频率变换格式，现在AOM的成员已经涵盖了Amazon、Cisco、Google、Intel、Microsoft、Mozilla、Netflix、AMD、ARM和 NVIDIA，它成立的目的是为互联网和其他市场创建一个开源的视频编解码器，AV1相对现在的主流编码格式VP9和HEVC/H.265有20%以上的提升，而且免除了专利费和反垄断的麻烦。</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
