@@ -6,10 +6,26 @@
     <description>Recent content on 桃花心木</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2019 10:14:20 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 15:45:21 +0800</lastBuildDate>
     
 	<atom:link href="https://qdxkrs.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IC卡介绍</title>
+      <link>https://qdxkrs.github.io/ic%E5%8D%A1%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Fri, 10 May 2019 15:45:21 +0800</pubDate>
+      
+      <guid>https://qdxkrs.github.io/ic%E5%8D%A1%E4%BB%8B%E7%BB%8D/</guid>
+      <description> 智能卡 智能卡（Smart Card）是内嵌有微芯片的塑料卡的通称，主要是指IC卡（Integrated CircuitCard）。 将一个专用的集成电路芯片镶嵌于符合ISO7816标准的PVC（或ABS等）塑料基片中，封装成外形与磁卡 类似的卡片形式，即制成一张IC卡。当然也可以封装成纽扣、钥匙、饰物等特殊形状。
+IC卡较之以往的识别卡，具有以下特点： 一是可靠性高──IC卡具有防磁、防静电、防机械损坏和防化学破坏等能力，信息可保存100年以上，读写次数在10万次以上，至少可用10年；二是安全性好，具有一定的加密能力； 三是存储容量大，可以读取或存储数据； 四是类型多，可以制作成各种形状。 从全球范围看，IC卡的应用范围已不再局限于早期的通信领域，而广泛地应用于金融财务、社会保险、交通旅游、医疗卫生、政府行政、商品零售、休闲娱乐、学校管理及其它领域。 从功能上来说，智能卡的用途可归为如下四点： 1． 身份识别-运用内含微计算机系统对数据进行数学计算，确认其唯一性。 2． 支付工具-内置计数器（counter）替代成货币、红利点数、等，数字体的数据。 3． 加密/解密-网络迅速发展的情况下，电子商务的使用率亦大幅成长，部分厂商表示，网络消费最重要的在于身份的真实性、资料的完整性、交易的不可否认以及合法性，藉由密码机制如DES、RSA、MD5等，除可增加卡片的安全性外，还可采用离线作业，以降低网络上的通讯成本。 4． 信息-由于GSM行动电话的普及，SIM卡需求量大增，加速智能卡的技术发展，使得行动电话从原来单纯的电话功能，延伸到今日的网络联机等功能。其信息存储的功能，使其有着广泛的商业应用如：
+ 个人财务纪录
+银行竞争渐趋激烈，为提高客户的忠诚度，并吸引更多新客户加入，各家银行推出各式红利优惠方案，并改善客服制度，而藉由智能卡的使用，不仅可达到全天24小时自由转帐功能，并可以减低银行员以及客户的书面作业程序时间。市场上已有多家银行发行智能卡，而MasterCard以及VISA两大信用卡集团也即将换发智能卡。
+ 医疗纪录
+一旦医疗保健卡IC化，个人医疗纪录可储存于芯片中，不论到那家医院就诊，皆可得知个人医疗状况，医师可立即得知病患的就诊纪录，病患也可免除报表填写的时间，并减少医院病历档案维护成本。此外，国民身分证也可IC化，并将所有个人辨识资料例如指纹、生日、个人档案存入芯片中，还可作为护照使用，新加坡以及马来西亚政府已开始使用。
+ 门禁控制 门禁控制对企业及学校来说相当重要，智能卡除了可用作一般门禁管理外，还可储存小额款项，与一般商店合作消费，提高卡片的功能性，例如英国某门禁系统制造商将原本使用于门禁上的智能卡同时可应用于提款机上，便结合了门禁与电子钱包的功能。
+  </description>
+    </item>
     
     <item>
       <title>现代客户端数字媒体</title>
@@ -28,15 +44,6 @@ Opus是一种开源的有损压缩音频格式，由IETF提出，Opus压缩率�
 随着对品质的追求，Lossless Encode无损压缩编码的应用愈加广泛，FLAC (Free Lossless Audio Codec)编码压缩后不会丢失任何信息,是目前最流行的无损音频编码，获得了广泛的支持,带宽消耗较多。
 视频领域 视频格式和视频编码解码的技术不直接关联，视频格式相当于容器，常见的视频格式包括MP4、MKV、WebM等， 而编解码方案则是压缩方式，包括视频编码和音频编码，通过封装格式将字幕等打包起来。
 开放媒体联盟(AOM，Alliance for Open Media)推出 AV1 是一种基于区块编码的频率变换格式，现在AOM的成员已经涵盖了Amazon、Cisco、Google、Intel、Microsoft、Mozilla、Netflix、AMD、ARM和 NVIDIA，它成立的目的是为互联网和其他市场创建一个开源的视频编解码器，AV1相对现在的主流编码格式VP9和HEVC/H.265有20%以上的提升，而且免除了专利费和反垄断的麻烦。</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://qdxkrs.github.io/hello/</link>
-      <pubDate>Fri, 19 Apr 2019 11:49:21 +0800</pubDate>
-      
-      <guid>https://qdxkrs.github.io/hello/</guid>
-      <description>Hello World！</description>
     </item>
     
     <item>
